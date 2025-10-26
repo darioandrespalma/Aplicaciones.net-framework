@@ -1,0 +1,23 @@
+## Ignorar archivos de Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.docstates
+_ReSharper.Caches/
+*.vs/
+*.vscode/
+
+## Ignorar archivos de compilación
+*.exe
+*.dll
+*.pdb
+
+## Ignorar archivos temporales
+*.tmp
+*.temp
+
+## Ignorar configuraciones específicas de usuario
+*.userosscache
+*.sln.docstates
